@@ -247,6 +247,31 @@ import os
 # def a():
 #     return 5,10
 # print(a())
-
-
-
+# -------------------
+# To_Do_list=[1,2,3,"a",4,5,6]
+# Time_List=[22,1,11,5,45,12,65]
+# Delete_item=input("Enter Item to delete: ")
+# if Delete_item in To_Do_list:
+#     print("hey")
+#     for j in range(len(To_Do_list)):
+#         if Delete_item==To_Do_list[j]:
+#             print("inja")
+#             To_Do_list.pop(j)
+#             print("ssss")
+#             Time_List.pop(j)
+#             print(333)
+#             break
+# print(To_Do_list)
+# print(Time_List)
+# ----------------------
+# lis=["aaa","b","cc"]
+# print(lis)
+# name=input("enter a item")
+# lis.remove(name)
+# print(lis)
+# ----------
+lis=["aaa","b","cc"]
+print(lis)
+name=input("enter a item")
+del lis[1]
+print(lis)

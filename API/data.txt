@@ -1,0 +1,251 @@
+Afghanistan,Kabul,AF,AFG
+Aland Islands,Mariehamn,AX,ALA
+Albania,Tirana,AL,ALB
+Algeria,Algiers,DZ,DZA
+American Samoa,Pago Pago,AS,ASM
+Andorra,Andorra la Vella,AD,AND
+Angola,Luanda,AO,AGO
+Anguilla,The Valley,AI,AIA
+Antarctica,,AQ,ATA
+Antigua and Barbuda,St. John's,AG,ATG
+Argentina,Buenos Aires,AR,ARG
+Armenia,Yerevan,AM,ARM
+Aruba,Oranjestad,AW,ABW
+Australia,Canberra,AU,AUS
+Austria,Vienna,AT,AUT
+Azerbaijan,Baku,AZ,AZE
+Bahamas,Nassau,BS,BHS
+Bahrain,Manama,BH,BHR
+Bangladesh,Dhaka,BD,BGD
+Barbados,Bridgetown,BB,BRB
+Belarus,Minsk,BY,BLR
+Belgium,Brussels,BE,BEL
+Belize,Belmopan,BZ,BLZ
+Benin,Porto-Novo,BJ,BEN
+Bermuda,Hamilton,BM,BMU
+Bhutan,Thimphu,BT,BTN
+Bolivia,Sucre,BO,BOL
+Bonaire, Saint Eustatius and Saba ,,BQ,BES
+Bosnia and Herzegovina,Sarajevo,BA,BIH
+Botswana,Gaborone,BW,BWA
+Bouvet Island,,BV,BVT
+Brazil,Brasilia,BR,BRA
+British Indian Ocean Territory,Diego Garcia,IO,IOT
+British Virgin Islands,Road Town,VG,VGB
+Brunei,Bandar Seri Begawan,BN,BRN
+Bulgaria,Sofia,BG,BGR
+Burkina Faso,Ouagadougou,BF,BFA
+Burundi,Bujumbura,BI,BDI
+Cambodia,Phnom Penh,KH,KHM
+Cameroon,Yaounde,CM,CMR
+Canada,Ottawa,CA,CAN
+Cape Verde,Praia,CV,CPV
+Cayman Islands,George Town,KY,CYM
+Central African Republic,Bangui,CF,CAF
+Chad,N'Djamena,TD,TCD
+Chile,Santiago,CL,CHL
+China,Beijing,CN,CHN
+Christmas Island,Flying Fish Cove,CX,CXR
+Cocos (Keeling) Islands,West Island,CC,CCK
+Cocos Islands,West Island,CC,CCK
+Colombia,Bogota,CO,COL
+Comoros,Moroni,KM,COM
+Congo,Brazzaville,CG,COG
+Cook Islands,Avarua,CK,COK
+Costa Rica,San Jose,CR,CRI
+Croatia,Zagreb,HR,HRV
+Cuba,Havana,CU,CUB
+Curacao, Willemstad,CW,CUW
+Cyprus,Nicosia,CY,CYP
+Czech Republic,Prague,CZ,CZE
+Democratic Republic of the Congo,Kinshasa,CD,COD
+Denmark,Copenhagen,DK,DNK
+Djibouti,Djibouti,DJ,DJI
+Dominica,Roseau,DM,DMA
+Dominican Republic,Santo Domingo,DO,DOM
+Ecuador,Quito,EC,ECU
+Egypt,Cairo,EG,EGY
+El Salvador,San Salvador,SV,SLV
+Equatorial Guinea,Malabo,GQ,GNQ
+Eritrea,Asmara,ER,ERI
+Estonia,Tallinn,EE,EST
+Ethiopia,Addis Ababa,ET,ETH
+Falkland Islands,Stanley,FK,FLK
+Faroe Islands,Torshavn,FO,FRO
+Fiji,Suva,FJ,FJI
+Finland,Helsinki,FI,FIN
+France,Paris,FR,FRA
+French Polynesia,Papeete,PF,PYF
+French Southern Territories,Port-aux-Francais,TF,ATF
+Gabon,Libreville,GA,GAB
+Gambia,Banjul,GM,GMB
+Georgia,Tbilisi,GE,GEO
+Germany,Berlin,DE,DEU
+Ghana,Accra,GH,GHA
+Gibraltar,Gibraltar,GI,GIB
+Greece,Athens,GR,GRC
+Greenland,Nuuk,GL,GRL
+Grenada,St. George's,GD,GRD
+Guadeloupe,Basse-Terre,GP,GLP
+Guam,Hagatna,GU,GUM
+Guatemala,Guatemala City,GT,GTM
+Guernsey,St Peter Port,GG,GGY
+Guinea,Conakry,GN,GIN
+Guinea-Bissau,Bissau,GW,GNB
+Guyana,Georgetown,GY,GUY
+Haiti,Port-au-Prince,HT,HTI
+Heard Island and McDonald Islands,,HM,HMD
+Honduras,Tegucigalpa,HN,HND
+Hong Kong,Hong Kong,HK,HKG
+Hungary,Budapest,HU,HUN
+Iceland,Reykjavik,IS,ISL
+India,New Delhi,IN,IND
+Indonesia,Jakarta,ID,IDN
+Iran,Tehran,IR,IRN
+Iraq,Baghdad,IQ,IRQ
+Ireland,Dublin,IE,IRL
+Isle of Man,Douglas, Isle of Man,IM,IMN
+Israel,Jerusalem,IL,ISR
+Italy,Rome,IT,ITA
+Ivory Coast,Yamoussoukro,CI,CIV
+Jamaica,Kingston,JM,JAM
+Japan,Tokyo,JP,JPN
+Jersey,Saint Helier,JE,JEY
+Jordan,Amman,JO,JOR
+Kazakhstan,Astana,KZ,KAZ
+Kenya,Nairobi,KE,KEN
+Kiribati,Tarawa,KI,KIR
+Kosovo,Pristina,XK,XKX
+Kuwait,Kuwait City,KW,KWT
+Kyrgyzstan,Bishkek,KG,KGZ
+Laos,Vientiane,LA,LAO
+Latvia,Riga,LV,LVA
+Lebanon,Beirut,LB,LBN
+Lesotho,Maseru,LS,LSO
+Liberia,Monrovia,LR,LBR
+Libya,Tripolis,LY,LBY
+Liechtenstein,Vaduz,LI,LIE
+Lithuania,Vilnius,LT,LTU
+Luxembourg,Luxembourg,LU,LUX
+Macau,Macao,MO,MAC
+Macedonia,Skopje,MK,MKD
+Madagascar,Antananarivo,MG,MDG
+Malawi,Lilongwe,MW,MWI
+Malaysia,Kuala Lumpur,MY,MYS
+Maldives,Male,MV,MDV
+Mali,Bamako,ML,MLI
+Malta,Valletta,MT,MLT
+Marshall Islands,Majuro,MH,MHL
+Martinique,Fort-de-France,MQ,MTQ
+Mauritania,Nouakchott,MR,MRT
+Mauritius,Port Louis,MU,MUS
+Mayotte,Mamoudzou,YT,MYT
+Mexico,Mexico City,MX,MEX
+Micronesia,Palikir,FM,FSM
+Moldova,Chisinau,MD,MDA
+Monaco,Monaco,MC,MCO
+Mongolia,Ulan Bator,MN,MNG
+Montenegro,Podgorica,ME,MNE
+Montserrat,Plymouth,MS,MSR
+Morocco,Rabat,MA,MAR
+Mozambique,Maputo,MZ,MOZ
+Myanmar,Nay Pyi Taw,MM,MMR
+Namibia,Windhoek,NA,NAM
+Nauru,Yaren,NR,NRU
+Nepal,Kathmandu,NP,NPL
+Netherlands,Amsterdam,NL,NLD
+New Caledonia,Noumea,NC,NCL
+New Zealand,Wellington,NZ,NZL
+Nicaragua,Managua,NI,NIC
+Niger,Niamey,NE,NER
+Nigeria,Abuja,NG,NGA
+Niue,Alofi,NU,NIU
+Norfolk Island,Kingston,NF,NFK
+North Korea,Pyongyang,KP,PRK
+Northern Mariana Islands,Saipan,MP,MNP
+Norway,Oslo,NO,NOR
+Oman,Muscat,OM,OMN
+Pakistan,Islamabad,PK,PAK
+Palau,Melekeok,PW,PLW
+Palestinian Territory,East Jerusalem,PS,PSE
+Panama,Panama City,PA,PAN
+Papua New Guinea,Port Moresby,PG,PNG
+Paraguay,Asuncion,PY,PRY
+Peru,Lima,PE,PER
+Philippines,Manila,PH,PHL
+Pitcairn,Adamstown,PN,PCN
+Poland,Warsaw,PL,POL
+Portugal,Lisbon,PT,PRT
+Puerto Rico,San Juan,PR,PRI
+Qatar,Doha,QA,QAT
+Romania,Bucharest,RO,ROU
+Russia,Moscow,RU,RUS
+Rwanda,Kigali,RW,RWA
+Réunion,Saint-Denis,RE,REU
+Saint Barthelemy,Gustavia,BL,BLM
+Saint Helena,Jamestown,SH,SHN
+Saint Kitts and Nevis,Basseterre,KN,KNA
+Saint Lucia,Castries,LC,LCA
+Saint Martin,Marigot,MF,MAF
+Saint Pierre and Miquelon,Saint-Pierre,PM,SPM
+Saint Vincent and the Grenadines,Kingstown,VC,VCT
+Samoa,Apia,WS,WSM
+San Marino,San Marino,SM,SMR
+Sao Tome and Principe,Sao Tome,ST,STP
+Saudi Arabia,Riyadh,SA,SAU
+Senegal,Dakar,SN,SEN
+Serbia,Belgrade,RS,SRB
+Seychelles,Victoria,SC,SYC
+Sierra Leone,Freetown,SL,SLE
+Singapore,Singapur,SG,SGP
+Sint Maarten,Philipsburg,SX,SXM
+Slovakia,Bratislava,SK,SVK
+Slovenia,Ljubljana,SI,SVN
+Solomon Islands,Honiara,SB,SLB
+Somalia,Mogadishu,SO,SOM
+South Africa,Pretoria,ZA,ZAF
+South Georgia and the South Sandwich Islands,Grytviken,GS,SGS
+South Korea,Seoul,KR,KOR
+South Sudan,Juba,SS,SSD
+Spain,Madrid,ES,ESP
+Sri Lanka,Colombo,LK,LKA
+Sudan,Khartoum,SD,SDN
+Suriname,Paramaribo,SR,SUR
+Svalbard and Jan Mayen,Longyearbyen,SJ,SJM
+Swaziland,Mbabane,SZ,SWZ
+Sweden,Stockholm,SE,SWE
+Switzerland,Berne,CH,CHE
+Syria,Damascus,SY,SYR
+Taiwan,Taipei,TW,TWN
+Tajikistan,Dushanbe,TJ,TJK
+Tanzania,Dodoma,TZ,TZA
+Thailand,Bangkok,TH,THA
+Timor-Leste,Dili,TL,TLS
+Togo,Lome,TG,TGO
+Tokelau,,TK,TKL
+Tonga,Nuku'alofa,TO,TON
+Trinidad and Tobago,Port of Spain,TT,TTO
+Tunisia,Tunis,TN,TUN
+Turkey,Ankara,TR,TUR
+Turkmenistan,Ashgabat,TM,TKM
+Turks and Caicos Islands,Cockburn Town,TC,TCA
+Tuvalu,Funafuti,TV,TUV
+U.S. Virgin Islands,Charlotte Amalie,VI,VIR
+Uganda,Kampala,UG,UGA
+Ukraine,Kiev,UA,UKR
+United Arab Emirates,Abu Dhabi,AE,ARE
+United Kingdom,London,GB,GBR
+United States,Washington,US,USA
+United States Minor Outlying Islands,,UM,UMI
+Uruguay,Montevideo,UY,URY
+Uzbekistan,Tashkent,UZ,UZB
+Vanuatu,Port Vila,VU,VUT
+Vatican,Vatican City,VA,VAT
+Vatican City State (Holy See),Vatican City,VA,VAT
+Venezuela,Caracas,VE,VEN
+Vietnam,Hanoi,VN,VNM
+Wallis and Futuna,Mata Utu,WF,WLF
+Western Sahara,El-Aaiun,EH,ESH
+Yemen,Sanaa,YE,YEM
+Zambia,Lusaka,ZM,ZMB
+Zimbabwe,Harare,ZW,ZWE

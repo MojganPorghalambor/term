@@ -9,7 +9,7 @@ def GameScreen():
     s.title("2 player game")
 
 def detail():
-    colors=["blue","yellow","black","white"]
+    colors=["blue","yellow","black","white","green"]
     tcolor=input("Enter a color: white, green, yellow, black, blue :")
     while True:
         if tcolor in colors:
