@@ -13,9 +13,6 @@ root.iconbitmap('home.ico')
 b1=Button(root,bg="yellow",text="login",fg="red")
 b2=Button(root,bg="yellow",text="login",fg="red")
 
-
-
-
 #-------pack----------
 b1.pack()
 b2.pack()
