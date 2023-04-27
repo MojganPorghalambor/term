@@ -29,3 +29,5 @@ def show(a):
             print(f" {i} : {apple[i]}")
     
 def buy():
+
+    

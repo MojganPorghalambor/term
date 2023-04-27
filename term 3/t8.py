@@ -8,6 +8,9 @@ def begirData():
     print(phone)
 
 
+
+
+
 #widgets----------------
 L1=Label(root,text="Name:")
 E1=Entry(root)
