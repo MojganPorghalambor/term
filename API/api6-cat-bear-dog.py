@@ -24,4 +24,3 @@ while ax!="end":
         f.write(response.content)
         print("photo saved!")
     ax=input("enter what would you like to see: cat, dog, bear and end for finish... ")
-

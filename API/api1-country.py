@@ -7,7 +7,8 @@ response = requests.request("GET", url, headers=headers, data=payload)
 
 # ---------- get data from API ------------------
 dic=response.json()
-details=dic["data"]
+# details=dic["data"][0]['name']
+
 dic={}
 name=[]
 capital=[]
@@ -49,9 +50,3 @@ while ask!="end":
         print("invalid command recieved, try again!")
     print("any question?")  
     ask=input("search by country, capital, iso or end: ")
-
-
-
-
-
-
